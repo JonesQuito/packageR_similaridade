@@ -1,0 +1,10 @@
+Package: similaridade
+Title: Calcula similaridade entre duas strings
+Version: 0.0.0.9000
+Authors@R: person("Jones", "Quito", email = "jonesdhy@hotmail.com", role = c("aut", "cre"))
+Description: Verifica o quão duas strings são similares. Retorna um valor float como resultado.
+Depends: R (>= 3.4.4)
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.0.1
